@@ -1,5 +1,5 @@
 // =============================================================================
-// BOXY THEME PREFERENCES
+// Boxy-Theme PREFERENCES
 // =============================================================================
 
 // Source: https://github.com/ihodev/sublime-boxy/wiki/Settings
@@ -71,25 +71,25 @@
   // DON'T FORGET TO RESTART SUBLIME TEXT AFTER ACTIVATING THE THEME.
 
   // "theme": "Boxy Monokai.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Monokai.tmTheme",
 
   // "theme": "Boxy Nova.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Nova.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Nova.tmTheme",
 
   // "theme": "Boxy Ocean.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Ocean.tmTheme",
 
   // "theme": "Boxy Solarized Dark.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Solarized Dark.tmTheme",
 
   // "theme": "Boxy Solarized Light.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Light.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Solarized Light.tmTheme",
 
   // "theme": "Boxy Tomorrow.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Tomorrow.tmTheme",
 
   // "theme": "Boxy Yesterday.sublime-theme",
-  // "color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+  // "color_scheme": "Packages/Boxy-Theme/schemes/Boxy Yesterday.tmTheme",
 
   // > 2 Global
   // -----------------------------------
@@ -212,7 +212,7 @@
   // Bar options enable you to control some aspects of tabs' and sidebar's
   // appearance at once.
 
-  // You can enable a beautiful bar for your Boxy Theme. The color tint fits
+  // You can enable a beautiful bar for your Boxy-Theme. The color tint fits
   // automatically the theme accent color you chose if you want to use
   // colored bar.
 

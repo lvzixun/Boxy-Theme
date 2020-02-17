@@ -6,13 +6,13 @@
 
 {
   "class": "overlay_control",
-  "layer0.texture": "Boxy Theme/assets/specific/<%= ui.id %>/overlays/overlay.png"
+  "layer0.texture": "Boxy-Theme/assets/specific/<%= ui.id %>/overlays/overlay.png"
 },
 
 {
   "class": "overlay_control",
   "settings": ["theme_quick_panel_border_visible"],
-  "layer2.texture": "Boxy Theme/assets/variants/<%= ui.variant.id %>/highlight_overlay.png",
+  "layer2.texture": "Boxy-Theme/assets/variants/<%= ui.variant.id %>/highlight_overlay.png",
   "layer2.opacity": 0.05,
   "layer2.inner_margin": [15, 25]
 },
@@ -20,7 +20,7 @@
 {
   "class": "overlay_control",
   "settings": ["theme_unified"],
-  "layer0.texture": "Boxy Theme/assets/specific/<%= ui.id %>/overlays/overlay_unified.png"
+  "layer0.texture": "Boxy-Theme/assets/specific/<%= ui.id %>/overlays/overlay_unified.png"
 },
 
 // Quick Panel

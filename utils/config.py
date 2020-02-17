@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Configuration
+Boxy-Theme Configuration
 """
 
 import sublime
@@ -538,7 +538,7 @@ div.boxy-config {
 
 
 def is_boxy_res(item):
-    return item.startswith('Packages/Boxy Theme/')
+    return item.startswith('Packages/Boxy-Theme/')
 
 
 class BoxyConfigCommand(sublime_plugin.TextCommand):

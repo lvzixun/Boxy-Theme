@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Extras
+Boxy-Theme Extras
 """
 
 import sublime
@@ -42,7 +42,7 @@ EXTRAS = OrderedDict(
                 'settings': 'SublimeLinter.sublime-settings',
                 'desc': 'Activate a gutter theme',
                 'revert': 'Revert the gutter theme to the defaults',
-                'boxy': 'Packages/Boxy Theme/extras/SublimeLinter/Boxy.gutter-theme',
+                'boxy': 'Packages/Boxy-Theme/extras/SublimeLinter/Boxy.gutter-theme',
                 'default': 'Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme'
             }
         )
@@ -175,7 +175,7 @@ class BoxyPlainTasksCommand(sublime_plugin.WindowCommand):
         activate_theme(PLAIN_TASKS, self._quick_list_to_theme(index))
 
     def _quick_list_to_theme(self, index):
-        return ('Packages/Boxy Theme/extras/PlainTasks/%s.hidden-tmTheme' %
+        return ('Packages/Boxy-Theme/extras/PlainTasks/%s.hidden-tmTheme' %
                 self.quick_list[index])
 
     def run(self):
@@ -205,7 +205,7 @@ class BoxyPlainNotesCommand(sublime_plugin.WindowCommand):
         activate_theme(PLAIN_NOTES, self._quick_list_to_theme(index))
 
     def _quick_list_to_theme(self, index):
-        return ('Packages/Boxy Theme/schemes/%s.tmTheme' %
+        return ('Packages/Boxy-Theme/schemes/%s.tmTheme' %
                 self.quick_list[index])
 
     def run(self):

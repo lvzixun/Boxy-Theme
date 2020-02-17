@@ -36,7 +36,7 @@
 
 {
   "class": "table_row",
-  "layer0.texture": "Boxy Theme/assets/variants/<%= ui.variant.id %>/highlight.png"
+  "layer0.texture": "Boxy-Theme/assets/variants/<%= ui.variant.id %>/highlight.png"
 },
 
 <% for (var i = 0; i < ui.accents.length; i++) { %>

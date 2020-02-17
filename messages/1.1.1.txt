@@ -40,7 +40,7 @@ I recommend you:
 3. Install via Package Control when BOXY 2.0.0 will be available.
 
 The easiest way to reinstall is using Sublime Package Control, where BOXY is
-listed as `Boxy Theme`.
+listed as `Boxy-Theme`.
 
 1. Activate default Sublime Text color scheme using menu item
    `Preferences -> Color Scheme -> Color Scheme - Default -> Monokai Bright`
@@ -48,7 +48,7 @@ listed as `Boxy Theme`.
 3. Choose `Package Control: Remove Package`
 4. Find `Theme - Otto` and hit `Enter`
 5. Choose `Package Control: Install Package`
-6. Find `Boxy Theme` and hit `Enter`
+6. Find `Boxy-Theme` and hit `Enter`
 7. Review your settings and activation.
 
 

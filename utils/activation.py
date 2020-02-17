@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Activation
+Boxy-Theme Activation
 """
 
 import sublime
@@ -100,7 +100,7 @@ class BoxyActivateCommand(sublime_plugin.WindowCommand):
         activate_ui_theme(ui_theme)
 
     def _quick_list_to_scheme(self, index):
-        return ('Packages/Boxy Theme/schemes/%s.tmTheme'
+        return ('Packages/Boxy-Theme/schemes/%s.tmTheme'
                 % self.quick_list[index])
 
     def _quick_list_to_theme(self, index):

@@ -1,6 +1,6 @@
-## This repo is the contents of `Boxy Theme.sublime-package` v5.2.0.
+## This repo is the contents of `Boxy-Theme.sublime-package` v5.2.0.
 
-For some reason the author of Boxy Theme for Sublime Text decided to remove all his projects from Guthub. <https://github.com/ihodev/sublime-boxy> repo has been deleted along with all it's forks, thanks to Github. I found `Boxy Theme.sublime-package` file in my `Installed Packages` dir on MacOS and put it's contents here.
+For some reason the author of Boxy-Theme for Sublime Text decided to remove all his projects from Guthub. <https://github.com/ihodev/sublime-boxy> repo has been deleted along with all it's forks, thanks to Github. I found `Boxy-Theme.sublime-package` file in my `Installed Packages` dir on MacOS and put it's contents here.
 
 ### Links:
 
@@ -23,7 +23,7 @@ For some reason the author of Boxy Theme for Sublime Text decided to remove all 
 
 ***
 
-A set of easy customizable interface and syntax themes for **Sublime Text 3 3103+**. Comes in, both, light and dark variations. There are dozens of [**options**][settings] that enable you to personalize your experience with `Boxy Theme`, don't forget to check [them][settings] out.
+A set of easy customizable interface and syntax themes for **Sublime Text 3 3103+**. Comes in, both, light and dark variations. There are dozens of [**options**][settings] that enable you to personalize your experience with `Boxy-Theme`, don't forget to check [them][settings] out.
 
 Want to contribute some code? Excellent! Read up on our [guidelines](https://github.com/ihodev/sublime-boxy/blob/dev/.github/CONTRIBUTING.md).
 
@@ -50,18 +50,18 @@ Want to learn more? [**See the wiki &#8594;**][wiki].
 <!--
 ### Getting Started
 
-[![Getting Started with Boxy Theme][img-getting-started]][getting-started]
+[![Getting Started with Boxy-Theme][img-getting-started]][getting-started]
 
 ***
 -->
 
 ### Installation
 
-The easiest way to install is using [Package Control][pc], where [Boxy][theme] is listed as **`Boxy Theme`**.
+The easiest way to install is using [Package Control][pc], where [Boxy][theme] is listed as **`Boxy-Theme`**.
 
 1. Open `Command Palette` using menu item `Tools → Command Palette...`
 2. Choose `Package Control: Install Package`
-3. Find `Boxy Theme` and hit `Enter`
+3. Find `Boxy-Theme` and hit `Enter`
 4. Restart Sublime Text
     - **macOS**  : menu item `Sublime Text → Quit Sublime Text`
     - **Windows**: menu item `File → Exit`
@@ -73,12 +73,12 @@ The easiest way to install is using [Package Control][pc], where [Boxy][theme] i
 
 ### Activation
 
-Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Preferences → Package Settings → Boxy Theme → Preferences`. 
+Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Preferences → Package Settings → Boxy-Theme → Preferences`. 
 
 Also you can use commands provided by the theme:
 
 1. Open `Command Palette` using menu item `Tools → Command Palette...`
-2. Choose `Boxy Theme: Activation` or `Boxy Theme: Configuration`
+2. Choose `Boxy-Theme: Activation` or `Boxy-Theme: Configuration`
 3. Hit `Enter`
 
 > **DON'T FORGET TO RESTART SUBLIME TEXT AFTER ACTIVATING THE THEME.**
@@ -99,9 +99,9 @@ You can activate skins by using commands provided by [Skins][skins] package:
 
 1. Open `Command Palette` using menu item `Tools → Command Palette...`
 2. Choose `Select Skin` to change the skin
-3. Choose `Boxy Theme: Activation` or `Boxy Theme: Configuration` to change the UI theme and color scheme
+3. Choose `Boxy-Theme: Activation` or `Boxy-Theme: Configuration` to change the UI theme and color scheme
 
-Or do this manually by modifying your user preferences file, which you can find using the menu item `Preferences → Package Settings → Boxy Theme → Preferences`.
+Or do this manually by modifying your user preferences file, which you can find using the menu item `Preferences → Package Settings → Boxy-Theme → Preferences`.
 
 > **DON'T FORGET TO RESTART SUBLIME TEXT AFTER ACTIVATING THE SKIN.**
 
@@ -115,7 +115,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Monokai.tmTheme",
 "theme": "Boxy Monokai.sublime-theme",
 ```
 
@@ -155,7 +155,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Nova.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Nova.tmTheme",
 "theme": "Boxy Nova.sublime-theme",
 ```
 
@@ -184,7 +184,7 @@ The operating system is **Windows**. The font used for the code is [**Consolas**
 
 Installed packages:
 
-* [Boxy Theme Addon - Font Face][addon-font-face]
+* [Boxy-Theme Addon - Font Face][addon-font-face]
 * [Bracket Highlighter][bracket-highlighter]
 * [A File Icon][a-file-icon]
 
@@ -198,7 +198,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Ocean.tmTheme",
 "theme": "Boxy Ocean.sublime-theme",
 ```
 
@@ -227,7 +227,7 @@ The operating system is **Ubuntu**. The font used for the code is [**Roboto Mono
 
 Installed packages:
 
-* [Boxy Theme Addon - Font Face][addon-font-face]
+* [Boxy-Theme Addon - Font Face][addon-font-face]
 * [Color Highlighter][color-highlighter]
 * [Color ​Helper][color-helper]
 
@@ -239,7 +239,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Solarized Dark.tmTheme",
 "theme": "Boxy Solarized Dark.sublime-theme",
 ```
 
@@ -266,9 +266,9 @@ The operating system is **macOS**. The font used for the code is [**SF Mono**][s
 
 Installed packages:
 
-* [Boxy Theme Addon - Font Face][addon-font-face]
-* [Boxy Theme Addon - Mono File Icons][addon-mono-file-icons]
-* [Boxy Theme Addon - Widget Font Size][addon-widget-font-size]
+* [Boxy-Theme Addon - Font Face][addon-font-face]
+* [Boxy-Theme Addon - Mono File Icons][addon-mono-file-icons]
+* [Boxy-Theme Addon - Widget Font Size][addon-widget-font-size]
 * [Bracket Highlighter][bracket-highlighter]
 
 #### Boxy Solarized Light ★ Iowa
@@ -279,7 +279,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Light.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Solarized Light.tmTheme",
 "theme": "Boxy Solarized Light.sublime-theme",
 ```
 
@@ -321,7 +321,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Tomorrow.tmTheme",
 "theme": "Boxy Tomorrow.sublime-theme",
 ```
 
@@ -348,7 +348,7 @@ The operating system is **Ubuntu**. The font used for the code is [**Fira Code**
 
 Installed packages:
 
-* [Boxy Theme Addon - Font Face][addon-font-face]
+* [Boxy-Theme Addon - Font Face][addon-font-face]
 
 #### Boxy Yesterday ★ Atom
 
@@ -358,7 +358,7 @@ The screenshot above shows next options in action:
 
 ```js
 // Activation
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Yesterday.tmTheme",
 "theme": "Boxy Yesterday.sublime-theme",
 ```
 
@@ -385,15 +385,15 @@ The operating system is **macOS**. The font used for the code is [**Iosevka**][i
 
 Installed packages:
 
-* [Boxy Theme Addon - Font Face][addon-font-face]
-* [Boxy Theme Addon - Widget Font Size][addon-widget-font-size]
+* [Boxy-Theme Addon - Font Face][addon-font-face]
+* [Boxy-Theme Addon - Widget Font Size][addon-widget-font-size]
 * [PlainNotes][plain-notes]
 
 ***
 
 ### Share The Love
 
-I've put a lot of time and effort into making `Boxy Theme` awesome. If you love it, you can buy me a coffee. Every cup helps! I promise it will be a good investment 😉
+I've put a lot of time and effort into making `Boxy-Theme` awesome. If you love it, you can buy me a coffee. Every cup helps! I promise it will be a good investment 😉
 
 **Donate with:** [Patreon][patreon].
 
@@ -401,7 +401,7 @@ I've put a lot of time and effort into making `Boxy Theme` awesome. If you love 
 
 [build-status]: https://travis-ci.org/ihodev/sublime-boxy
 [downloads]: https://packagecontrol.io/packages/Boxy%20Theme
-[getting-started]: https://youtu.be/d2FZCUDcNxo 'Watch "Getting Started with Boxy Theme" on YouTube'
+[getting-started]: https://youtu.be/d2FZCUDcNxo 'Watch "Getting Started with Boxy-Theme" on YouTube'
 [issues]: https://github.com/ihodev/sublime-boxy/issues
 [known-issues]: https://github.com/ihodev/sublime-boxy/wiki#known-issues
 [install]: https://github.com/ihodev/sublime-boxy/wiki/Get-It#installation

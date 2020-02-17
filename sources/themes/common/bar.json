@@ -27,7 +27,7 @@
   "layer1.inner_margin": [120, 32, 0, 0],
   "layer1.opacity": 1,
   "layer2.inner_margin": [0, 0, 7, 32],
-  "layer2.texture": "Boxy Theme/assets/common/bar/shadow.png"
+  "layer2.texture": "Boxy-Theme/assets/common/bar/shadow.png"
 },
 
 {

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Add-ons
+Boxy-Theme Add-ons
 """
 
 import sublime
@@ -12,12 +12,12 @@ import shutil
 
 PREFERENCES = 'Preferences.sublime-settings'
 
-PARENT = 'Boxy Theme'
+PARENT = 'Boxy-Theme'
 
 UNIFIED_SETTINGS = {
     'source': 'addons/UnifiedMode',
-    'target': 'Boxy Theme Addon - Unified Mode',
-    'package': 'Boxy Theme.sublime-package'
+    'target': 'Boxy-Theme Addon - Unified Mode',
+    'package': 'Boxy-Theme.sublime-package'
 }
 
 ID = '48c3cc08-b280-4048-a9bd-a948a83319df'

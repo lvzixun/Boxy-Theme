@@ -9,16 +9,16 @@ Read more: https://github.com/ihodev/sublime-boxy/wiki/Upgrading
 -------------------
 
 "theme": "Boxy Yesterday.sublime-theme",
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Yesterday.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Yesterday.tmTheme",
 
 "theme": "Boxy Tomorrow.sublime-theme",
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Tomorrow.tmTheme",
 
 "theme": "Boxy Ocean.sublime-theme",
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Ocean.tmTheme",
 
 "theme": "Boxy Monokai.sublime-theme",
-"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+"color_scheme": "Packages/Boxy-Theme/schemes/Boxy Monokai.tmTheme",
 
 
 💅 Themes

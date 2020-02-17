@@ -22,14 +22,14 @@
 
 {
   "class": "tab_control",
-  "layer0.texture": "Boxy Theme/assets/specific/<%= ui.id %>/tabs/tab.png",
-  "layer1.texture": "Boxy Theme/assets/variants/<%= ui.variant.id %>/tabs/tab_hovered.png"
+  "layer0.texture": "Boxy-Theme/assets/specific/<%= ui.id %>/tabs/tab.png",
+  "layer1.texture": "Boxy-Theme/assets/variants/<%= ui.variant.id %>/tabs/tab_hovered.png"
 },
 
 {
   "class": "tab_control",
   "settings": ["theme_tab_rounded", "!theme_bar"],
-  "layer1.texture": "Boxy Theme/assets/variants/<%= ui.variant.id %>/tabs/tab_hovered_rounded.png"
+  "layer1.texture": "Boxy-Theme/assets/variants/<%= ui.variant.id %>/tabs/tab_hovered_rounded.png"
 },
 
 {

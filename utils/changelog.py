@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Changelog
+Boxy-Theme Changelog
 """
 
 import sublime
@@ -38,9 +38,9 @@ class BoxyChangelogCommand(sublime_plugin.WindowCommand):
 
     def run(self):
         import mdpopups
-        text = sublime.load_resource('Packages/Boxy Theme/CHANGELOG.md')
+        text = sublime.load_resource('Packages/Boxy-Theme/CHANGELOG.md')
         view = self.window.new_file()
-        view.set_name('Boxy Theme Changelog')
+        view.set_name('Boxy-Theme Changelog')
         view.settings().set('gutter', False)
         html = '<div class="boxy-changelog">%s</div>' % mdpopups.md2html(view,
                                                                          text)

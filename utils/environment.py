@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Boxy Theme Environment
+Boxy-Theme Environment
 """
 
 import sublime
@@ -10,7 +10,7 @@ import textwrap
 
 
 __version__ = '5.2.0'
-__pc_name__ = 'Boxy Theme'
+__pc_name__ = 'Boxy-Theme'
 
 
 def list2string(obj):
@@ -74,7 +74,7 @@ class BoxyEnvironmentCommand(sublime_plugin.ApplicationCommand):
 
         msg = textwrap.dedent(
             '''\
-            - Boxy Theme: %(boxy_version)s
+            - Boxy-Theme: %(boxy_version)s
             - Sublime Text: %(version)s
             - Platform: %(platform)s
             - Package Control: %(pc_install)s

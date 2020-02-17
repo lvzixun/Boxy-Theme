@@ -9,7 +9,7 @@
   - [Windows] `File -> Exit`
   - [Linux]   `File -> Exit`
 
-2. Go to `Sublime Text -> Preferences -> Browse Packages ...` and remove `[Boxy Theme]` directory if it exists, then repeat step 1.
+2. Go to `Sublime Text -> Preferences -> Browse Packages ...` and remove `[Boxy-Theme]` directory if it exists, then repeat step 1.
 
 3. Clear your Sublime Text cache and indexes via removing these folders
 
@@ -51,5 +51,5 @@
 
 #### Your Environment
 <!-- Include as many relevant details about the environment you experienced the bug in -->
-<!-- You can paste here the output of `Package Settings -> Boxy Theme -> Environment` command (also available via Command Palette) -->
+<!-- You can paste here the output of `Package Settings -> Boxy-Theme -> Environment` command (also available via Command Palette) -->
 <!-- Also don't forget to provide ST Console output (`View -> Show Console`) -->
