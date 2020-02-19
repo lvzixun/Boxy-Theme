@@ -1,5 +1,5 @@
 {
-  "name": "sublime-boxy",
+  "name": "Boxt-Theme",
   "version": "5.2.0",
   "description": "The most hackable theme for Sublime Text 3",
   "keywords": [
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ihodev/sublime-boxy.git"
+    "url": "git@github.com:lvzixun/Boxy-Theme.git"
   },
   "bugs": {
     "url": "https://github.com/ihodev/sublime-boxy/issues"
